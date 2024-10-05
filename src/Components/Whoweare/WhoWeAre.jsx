@@ -1,4 +1,4 @@
-import "./whoweAre.css"
+import "./whoWeAre.css"
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 
 const WhoWeAre = () => {
